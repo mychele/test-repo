@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /publications/
 title: Publications
 tags: [publications, Michele Polese]
 date: 2016-07-28
