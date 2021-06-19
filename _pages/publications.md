@@ -1,5 +1,5 @@
 ---
-layout: page
+<!-- layout: page -->
 permalink: /publications/
 title: Publications
 tags: [publications, Michele Polese]
