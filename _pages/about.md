@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: default
+<!-- layout: default -->
 title: About
 tags: [about, Michele Polese]
 comments: false
